@@ -1,8 +1,6 @@
 
 # Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer (NeurIPS 2024)
 
----
-
 This repository is for environment setup and inference of the paper "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).
 It contains the minimal code and instructions required to run inference using pretrained weights from the official implementation.
 
