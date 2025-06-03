@@ -2,7 +2,8 @@
 # Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer (NeurIPS 2024)
 
 This repository is for environment setup and inference of the paper "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).
-It contains the minimal code and instructions required to run inference using pretrained weights from the official implementation.
+
+Direct3D generates high-quality 3D meshes from a single image using a diffusion model trained directly in the 3D latent space.
 
 
 Below is an example of image-to-3D generation using Direct3D.
