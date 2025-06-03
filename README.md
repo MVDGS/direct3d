@@ -8,7 +8,9 @@ It contains the minimal code and instructions required to run inference using pr
 
 
 Below is an example of image-to-3D generation using Direct3D.
+
 ---
+
 ### Input Image
 
 <img src="assets/input1.png" width="360"/>
@@ -20,6 +22,7 @@ Below is an example of image-to-3D generation using Direct3D.
 [▶watch the output video](assets/output1.mp4)
 
 ---
+
 ### Installation
 
 ```sh
