@@ -3,10 +3,8 @@
 
 ---
 
-# direct3d-inference
-
-This repository is for environment setup and inference of the paper  
-**"Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).**
+This repository is for environment setup and inference of the paper "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).
+It contains the minimal code and instructions required to run inference using pretrained weights from the official implementation.
 
 
 Below is an example of image-to-3D generation using Direct3D.
@@ -17,7 +15,9 @@ Below is an example of image-to-3D generation using Direct3D.
 
 ### 🎞️ Output Mesh (Video)
 
-[▶ Click here to watch the output video](direct3d/assets/output1.mp4)
+<img src="direct3d/assets/output1.gif" width="480"/>
+
+[▶watch the output video](assets/output1.mp4)
 
 
 ### Installation
