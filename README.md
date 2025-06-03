@@ -13,7 +13,7 @@ Below is an example of image-to-3D generation using Direct3D.
 
 ### 🖼️ Input Image
 
-<img src="direct3d/assets/input1.png" width="360"/>
+<img src="assets/input1.png" width="360"/>
 
 ### 🎞️ Output Mesh (Video)
 
