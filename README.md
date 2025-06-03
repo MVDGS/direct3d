@@ -1,27 +1,7 @@
 
 # Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer (NeurIPS 2024)
 
-<div align="center">
-  <a href=https://nju-3dv.github.io/projects/Direct3D/ target="_blank"><img src=https://img.shields.io/badge/Project%20Page-333399.svg?logo=googlehome height=22px></a>
-  <a href= target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Demo-276cb4.svg height=22px></a>
-  <a href=https://huggingface.co/DreamTechAI/Direct3D/tree/main target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Models-d96902.svg height=22px></a>
-  <a href=https://openreview.net/pdf?id=vCOgjBIZuL target="_blank"><img src=https://img.shields.io/badge/Paper-b5212f.svg?logo=paperswithcode height=22px></a>
-  <a href=https://arxiv.org/abs/2405.14832 target="_blank"><img src=https://img.shields.io/badge/Arxiv-b5212f.svg?logo=arxiv height=22px></a>
-</div>
-
-<p align="center">
-  <img src="assets/demo/video2.gif", width="48%">
-  <img src="assets/demo/video1.gif", width="48%">
-  <br>
-</p>
-
 ---
-
-## ✨ News
-
-- Feb 11, 2025: 🔨 We are working on the Gradio demo and will release it soon!
-- Feb 11, 2025: 🎁 Enjoy our improved version of Direct3D with high quality geometry and texture at [https://www.neural4d.com](https://www.neural4d.com/).
-- Feb 11, 2025: 🚀 Release inference code of Direct3D and the pretrained models are available at 🤗 [Hugging Face](https://huggingface.co/DreamTechAI/Direct3D/tree/main).
 
 ## 📝 Abstract
 
