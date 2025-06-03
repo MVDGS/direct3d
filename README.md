@@ -9,7 +9,15 @@ This repository is for environment setup and inference of the paper
 **"Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).**
 
 
+Below is an example of image-to-3D generation using Direct3D.
 
+### 🖼️ Input Image
+
+<img src="direct3d/assets/input1.png" width="360"/>
+
+### 🎞️ Output Mesh (Video)
+
+[▶ Click here to watch the output video](direct3d/assets/output1.mp4)
 
 
 ### Installation
