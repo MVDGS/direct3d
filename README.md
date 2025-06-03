@@ -13,13 +13,14 @@ Direct3D generates high-quality 3D meshes from a single image using a diffusion 
 
 ---
 
-### Input Image
+<p align="center">
+  <img src="assets/input1.png" width="400"/>
+  <img src="assets/output1.gif" width="400"/>
+</p>
 
-<img src="assets/input1.png" width="400" height="600"/>
-
-### Output Mesh (GIF)
-
-<img src="assets/output1.gif" width="400" height="500"/>
+<p align="center">
+  <b>Left:</b> Input Image   <b>Right:</b> Generated Output Mesh
+</p>
 
 [▶watch the output video](assets/output1.mp4)
 
