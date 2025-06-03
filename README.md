@@ -8,18 +8,18 @@ It contains the minimal code and instructions required to run inference using pr
 
 
 Below is an example of image-to-3D generation using Direct3D.
-
-### 🖼️ Input Image
+---
+### Input Image
 
 <img src="assets/input1.png" width="360"/>
 
-### 🎞️ Output Mesh (Video)
+### Output Mesh (Video)
 
 <img src="assets/output1.gif" width="480"/>
 
 [▶watch the output video](assets/output1.mp4)
 
-
+---
 ### Installation
 
 ```sh
