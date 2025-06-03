@@ -3,10 +3,13 @@
 
 This repository is for environment setup and inference of the paper "Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer" (NeurIPS 2024).
 
-Direct3D generates high-quality 3D meshes from a single image using a diffusion model trained directly in the 3D latent space.
-
-
 Below is an example of image-to-3D generation using Direct3D.
+
+---
+
+### Summary
+
+Direct3D generates high-quality 3D meshes from a single image using a diffusion model trained directly in the 3D latent space.
 
 ---
 
@@ -52,7 +55,7 @@ mesh.export("output.obj")
 
 ## Acknowledgements
 
-Thanks to the following repos for their great work, which helps us a lot in the development of Direct3D:
+following repos for their great work, which helps us a lot in the development of Direct3D:
 
 - [3DShape2VecSet](https://github.com/1zb/3DShape2VecSet/tree/master)
 - [Michelangelo](https://github.com/NeuralCarver/Michelangelo)
