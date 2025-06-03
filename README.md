@@ -15,7 +15,7 @@ Below is an example of image-to-3D generation using Direct3D.
 
 ### 🎞️ Output Mesh (Video)
 
-<img src="direct3d/assets/output1.gif" width="480"/>
+<img src="assets/output1.gif" width="480"/>
 
 [▶watch the output video](assets/output1.mp4)
 
